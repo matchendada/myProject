@@ -16,8 +16,9 @@ public class Test {
 
 	public static void main(String[] args) throws Exception {
 		//test
-		String str = "{'name':null}";
 		
+		String str = "{'name':null}";
+		System.out.println(str);
 	}
 
 }
