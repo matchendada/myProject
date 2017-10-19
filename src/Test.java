@@ -19,6 +19,7 @@ public class Test {
 		
 		String str = "{'name':null}";
 		System.out.println(str);
+		System.out.println(str);
 	}
 
 }
