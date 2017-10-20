@@ -15,9 +15,13 @@ public class Test {
 	}
 
 	public static void main(String[] args) throws Exception {
-		//test
+
+		System.out.println("");
+		//test		
 		String str = "{'name':null}";
 		System.out.println(str);
+		System.out.println(str);
+		//System.out.println(str);
 	}
 
 }
